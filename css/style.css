@@ -1,0 +1,26 @@
+body{
+  background-color: #F2EDD7;
+  width: 90vh;
+}
+
+
+
+/* play */
+.play{
+  position: relative;
+  top: 30vh;left: 96vh;
+}
+
+
+/* i */
+.fas{
+  font-size: 2rem;;
+  padding: 1rem 0;
+  color: #393232;
+  padding: 1rem;
+}
+.fas:hover{
+  color: #E48257;
+  border-bottom: solid;
+  border-color: #E48257;
+}
